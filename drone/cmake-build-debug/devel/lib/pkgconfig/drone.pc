@@ -1,0 +1,8 @@
+prefix=/home/erick/ardrone_simulator/src/drone/cmake-build-debug/devel
+
+Name: drone
+Description: Description of drone
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
